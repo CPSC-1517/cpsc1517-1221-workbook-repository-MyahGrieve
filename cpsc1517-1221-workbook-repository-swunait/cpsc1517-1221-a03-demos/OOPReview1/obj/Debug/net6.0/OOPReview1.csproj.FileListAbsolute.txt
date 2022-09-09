@@ -1,0 +1,15 @@
+C:\Users\mgrieve2\Source\Repos\cpsc1517-1221-workbook-repository-swunait\cpsc1517-1221-a03-demos\OOPReview1\bin\Debug\net6.0\OOPReview1.exe
+C:\Users\mgrieve2\Source\Repos\cpsc1517-1221-workbook-repository-swunait\cpsc1517-1221-a03-demos\OOPReview1\bin\Debug\net6.0\OOPReview1.deps.json
+C:\Users\mgrieve2\Source\Repos\cpsc1517-1221-workbook-repository-swunait\cpsc1517-1221-a03-demos\OOPReview1\bin\Debug\net6.0\OOPReview1.runtimeconfig.json
+C:\Users\mgrieve2\Source\Repos\cpsc1517-1221-workbook-repository-swunait\cpsc1517-1221-a03-demos\OOPReview1\bin\Debug\net6.0\OOPReview1.dll
+C:\Users\mgrieve2\Source\Repos\cpsc1517-1221-workbook-repository-swunait\cpsc1517-1221-a03-demos\OOPReview1\bin\Debug\net6.0\OOPReview1.pdb
+C:\Users\mgrieve2\Source\Repos\cpsc1517-1221-workbook-repository-swunait\cpsc1517-1221-a03-demos\OOPReview1\obj\Debug\net6.0\OOPReview1.csproj.AssemblyReference.cache
+C:\Users\mgrieve2\Source\Repos\cpsc1517-1221-workbook-repository-swunait\cpsc1517-1221-a03-demos\OOPReview1\obj\Debug\net6.0\OOPReview1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgrieve2\Source\Repos\cpsc1517-1221-workbook-repository-swunait\cpsc1517-1221-a03-demos\OOPReview1\obj\Debug\net6.0\OOPReview1.AssemblyInfoInputs.cache
+C:\Users\mgrieve2\Source\Repos\cpsc1517-1221-workbook-repository-swunait\cpsc1517-1221-a03-demos\OOPReview1\obj\Debug\net6.0\OOPReview1.AssemblyInfo.cs
+C:\Users\mgrieve2\Source\Repos\cpsc1517-1221-workbook-repository-swunait\cpsc1517-1221-a03-demos\OOPReview1\obj\Debug\net6.0\OOPReview1.csproj.CoreCompileInputs.cache
+C:\Users\mgrieve2\Source\Repos\cpsc1517-1221-workbook-repository-swunait\cpsc1517-1221-a03-demos\OOPReview1\obj\Debug\net6.0\OOPReview1.dll
+C:\Users\mgrieve2\Source\Repos\cpsc1517-1221-workbook-repository-swunait\cpsc1517-1221-a03-demos\OOPReview1\obj\Debug\net6.0\refint\OOPReview1.dll
+C:\Users\mgrieve2\Source\Repos\cpsc1517-1221-workbook-repository-swunait\cpsc1517-1221-a03-demos\OOPReview1\obj\Debug\net6.0\OOPReview1.pdb
+C:\Users\mgrieve2\Source\Repos\cpsc1517-1221-workbook-repository-swunait\cpsc1517-1221-a03-demos\OOPReview1\obj\Debug\net6.0\OOPReview1.genruntimeconfig.cache
+C:\Users\mgrieve2\Source\Repos\cpsc1517-1221-workbook-repository-swunait\cpsc1517-1221-a03-demos\OOPReview1\obj\Debug\net6.0\ref\OOPReview1.dll
